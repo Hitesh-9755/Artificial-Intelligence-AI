@@ -1,0 +1,25 @@
+{
+  "task_id": null,
+  "goal": "",
+  "user_story": "",
+  "acceptance_criteria": [],
+  "assumptions": [],
+  "scope_files": [],
+  "plan": [],
+  "current_step": 0,
+  "retries": 0,
+  "inbox_applied": [],
+  "open_questions": [],
+  "verification": {
+    "status": "pending",
+    "commands_run": [],
+    "e2e_verified": false
+  },
+  "rejected_feedback": [
+    "Never declare a web/API feature complete with only isolated unit tests. Must verify end-to-end user journey, enable CORS for direct file:// browsing, provide connection health checks, and include a single-command start script."
+  ],
+  "budget": {
+    "tokens_used": 0,
+    "minutes_elapsed": 0
+  }
+}

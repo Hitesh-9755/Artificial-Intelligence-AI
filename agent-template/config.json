@@ -1,0 +1,9 @@
+{
+  "test_command": "npm test",
+  "typecheck_command": "tsc --noEmit",
+  "lint_command": "npm run lint",
+  "e2e_command": "",
+  "max_retries_per_step": 3,
+  "max_tokens_budget": 500000,
+  "max_minutes": 60
+}
